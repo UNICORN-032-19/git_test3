@@ -23,3 +23,10 @@ urlpatterns = [
     path('results', views.results),
     path('admin/', admin.site.urls),
 ]
+
+urlpatterns = [
+	path('home/', views.home),
+	path('compute', views.compute),
+    path('results', views.results),
+    path('admin/', admin.site.urls),
+]
