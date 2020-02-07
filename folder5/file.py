@@ -1,5 +1,5 @@
 The Hello World project is a time-honored tradition in computer programming. It$
-
+hello :)
     Create and use a repository
     Start and manage a new branch
     Make changes to a file and push them to GitHub as commits
